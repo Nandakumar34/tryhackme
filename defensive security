@@ -1,1 +1,14 @@
 you could be investigating infected computers or devices to understand how it was hacked, tracking down cybercriminals, or monitoring infrastructure for malicious activity.
+Defensive security is somewhat the opposite of offensive security, as it is concerned with two main tasks:
+
+Preventing intrusions from occurring
+Detecting intrusions when they occur and responding properly
+
+There is much more to defensive security, and the list above only covers a few common topics.
+
+In this room, we cover:
+
+Security Operations Center (SOC)
+Threat Intelligence
+Digital Forensics and Incident Response (DFIR)
+Malware Analysis
